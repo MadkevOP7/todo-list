@@ -4,4 +4,5 @@ public class User {
 	String passworString;
 	String hi;
 	String bye;
+	String hongString;
 }
