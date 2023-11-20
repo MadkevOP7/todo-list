@@ -1,4 +1,4 @@
-
-public class SignupServlet {
+import
+public class SignupServlet extends HttpServlet{
 
 }
