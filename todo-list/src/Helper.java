@@ -13,6 +13,9 @@ public class Helper {
 		return input;
 	}
 	
+	public static boolean validate_user(String email, String passowrd) {
+		
+	}
 	
 	//TESTING
 	public static void main(String[] args) {
